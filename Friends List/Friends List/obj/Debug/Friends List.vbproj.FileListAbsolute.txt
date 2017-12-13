@@ -1,0 +1,10 @@
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\bin\Debug\Friends List.exe.config
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\bin\Debug\Friends List.exe
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\bin\Debug\Friends List.pdb
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\bin\Debug\Friends List.xml
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\obj\Debug\Friends_List.Form1.resources
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\obj\Debug\Friends_List.Resources.resources
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\obj\Debug\Friends List.vbproj.GenerateResource.Cache
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\obj\Debug\Friends List.exe
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\obj\Debug\Friends List.xml
+C:\Users\bp131432\AppData\Local\Temporary Projects\Friends List\obj\Debug\Friends List.pdb
