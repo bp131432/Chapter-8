@@ -1,0 +1,10 @@
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\bin\Debug\Lottery Numbers.exe.config
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\bin\Debug\Lottery Numbers.xml
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\obj\Debug\Lottery_Numbers.Form1.resources
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\obj\Debug\Lottery_Numbers.Resources.resources
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\obj\Debug\Lottery Numbers.vbproj.GenerateResource.Cache
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\obj\Debug\Lottery Numbers.exe
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\obj\Debug\Lottery Numbers.xml
+C:\Users\bp131432\AppData\Local\Temporary Projects\Lottery Numbers\obj\Debug\Lottery Numbers.pdb
